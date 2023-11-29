@@ -5,11 +5,18 @@ Hello there, my name is Wafi Afdi Alfaruqhi. A student studying at Gadjah Mada U
 * Game Development 🎮
 * Mobile App Development 📱
 
+Also other things about me :
+* Hobbies : Coding, Gaming, Watching Anime, Sleeping :space_invader:
+* Currently a member of GDSC UGM :construction_worker_man:	
+* I am right now researching robotics in GMRT :robot:
+* Hustling and surviving till I graduate :money_with_wings:	
+
+
 
 ## Frameworks, Tools, & Language 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react,nextjs,express,unity,ts,js,tailwind,cs,cpp,python," />
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react,nextjs,express,unity,ts,js,tailwind,cs,cpp,python,opencv" />
   </a>
 </p>
 
@@ -25,6 +32,9 @@ Hello there, my name is Wafi Afdi Alfaruqhi. A student studying at Gadjah Mada U
     <img src="https://skillicons.dev/icons?i=discord"  title="mrhouse_24"/>
   </a>
 </p>
+
+![Wafi-Afdi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wafi-Afdi&theme=dracula&show_icons=true&hide_border=true&layout=compact) 
+
 <!--
 **Wafi-Afdi/Wafi-Afdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
