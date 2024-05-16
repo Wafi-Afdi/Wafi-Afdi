@@ -4,6 +4,7 @@ Hello there, my name is Wafi Afdi Alfaruqhi. A student studying at Gadjah Mada U
 * Fullstack Web Development 🌐
 * Game Development 🎮
 * Mobile App Development 📱
+* Robotics Programming 
 
 Also other things about me :
 * Hobbies : Coding, Gaming, Watching Anime, Sleeping :space_invader:
