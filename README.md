@@ -4,7 +4,7 @@ Hello there, my name is Wafi Afdi Alfaruqhi. A student studying at Gadjah Mada U
 * Fullstack Web Development 🌐
 * Game Development 🎮
 * Mobile App Development 📱
-* Robotics Programming 
+* Robotics Programming 🤖
 
 Also other things about me :
 * Hobbies : Coding, Gaming, Watching Anime, Sleeping :space_invader:
@@ -17,7 +17,7 @@ Also other things about me :
 ## Frameworks, Tools, & Language 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react,nextjs,express,unity,ts,js,tailwind,cs,cpp,python,opencv" />
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react,nextjs,express,unity,ts,js,tailwind,cs,cpp,python,opencv,ros" />
   </a>
 </p>
 
