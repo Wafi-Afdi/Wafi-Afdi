@@ -8,7 +8,6 @@ Hello there, my name is Wafi Afdi Alfaruqhi. A student studying at Gadjah Mada U
 
 Also other things about me :
 * Hobbies : Coding, Gaming, Watching Anime, Sleeping :space_invader:
-* Currently a member of GDSC UGM :construction_worker_man:	
 * I am right now researching robotics in GMRT :robot:
 * Hustling and surviving till I graduate :money_with_wings:	
 
